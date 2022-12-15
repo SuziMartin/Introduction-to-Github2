@@ -1,3 +1,3 @@
-# <h1> It' Christmas <h1>
-# <h2> Santa's Christmas List <h2>
-# <h3> Naughty and Nice <h3> 
+# <h1> It's Christmas <h1>
+# <h2> Yaktocats Christmas List <h2>
+![Image of Yaktocat](http://octodex.github.com/images/yaktocat.png)
